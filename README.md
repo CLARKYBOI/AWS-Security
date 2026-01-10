@@ -7,6 +7,7 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
 ### Elastic Beanstalk
 Service Role - IAM role that EB assumes to interact with other AWS services
   - Create EC2 instances, load balancers, Auto Scaling groups
+
 EC2 Instance Profile - IAM role attached to the EC2 instance 
   - Giving permissions for applications on those instances to interact with other AWS services
       - Allowing to upload logs to S3, write to an RDS DB and Cloudwatch
