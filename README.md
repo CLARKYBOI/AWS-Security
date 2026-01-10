@@ -11,3 +11,6 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
 **EC2 Instance Profile** - IAM role attached to the EC2 instance 
   - Giving permissions for applications on those instances to interact with other AWS services
       - Allowing to upload logs to S3, write to an RDS DB and Cloudwatch
+
+### AWS Lambda - Code runs on a server that is not needed to be managed and runs in response to some event
+  
