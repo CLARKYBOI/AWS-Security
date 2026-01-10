@@ -9,3 +9,4 @@ Service Role - IAM role that EB assumes to interact with other AWS services
 
 EC2 Instance Profile - IAM role attached to the EC2 instance 
   - Giving permissions for applications on those instances to interact with other AWS services
+      - Allowing to upload logs to S3, write to an RDS DB and Cloudwatch
