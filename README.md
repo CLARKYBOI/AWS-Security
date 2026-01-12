@@ -1,6 +1,16 @@
 # AWS-Security
 This portfolio demonstrates hands-on cloud security skills aligned with SOC Analyst / Cloud Security entry-level roles. Every project includes build steps, detections, evidence, and outcomes.
 
+
+## Projects
+[AWS Web Application](#diagram)
+This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch
+
+#### Diagram
+![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
+
+
+
 ## Quick Documentation / Note
 CLI command to change username - **aws iam update-user --user-name NAME --new-user-name NEWNAME**
   - User will stay in group but permissions will not transfer and will have to be reassigned to the new name
@@ -17,10 +27,3 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
 
 ### S3 
  - Object storage storing data within buckets identified by a unique key and supported by metadata
-
-## Projects
-[AWS Web Application diagram](#diagram)
-This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch
-
-#### Diagram
-![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
