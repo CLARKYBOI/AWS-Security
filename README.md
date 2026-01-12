@@ -20,5 +20,4 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
 
 # Project
 ## Web Application
-## My Draw.io Diagram
-![Diagram]([Untitled Diagram.drawio.png](https://github.com/CLARKYBOI/AWS-Security/blob/main/Untitled%20Diagram.drawio.png))
+![image alt] (https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
