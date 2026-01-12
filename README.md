@@ -33,7 +33,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 
 #### **Note**: Python code was AI generated used to perform function on webapplication
 
-#### Diagram
+## Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
 
 
