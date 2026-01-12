@@ -31,7 +31,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 
 **5.** **IAM** is needed to set permissions on the execution role for Lambda
 
-#### **Note**: Python code was AI generated used to perform function on webapplication
+#### **Note**: Python code was AI generated used to perform function on web application
 
 ## Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
@@ -39,6 +39,8 @@ Its use was to familize my self with common AWS services and allow my self to ex
 
 
 ## Quick Documentation / Note
+Please Disregard below
+
 CLI command to change username - **aws iam update-user --user-name NAME --new-user-name NEWNAME**
   - User will stay in group but permissions will not transfer and will have to be reassigned to the new name
 ### Elastic Beanstalk
