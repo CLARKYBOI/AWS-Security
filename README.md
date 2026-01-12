@@ -19,7 +19,7 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
  - Object storage storing data within buckets identified by a unique key and supported by metadata
 
 ## Projects
-### AWS Web Application diagram
+[AWS Web Application diagram]
 This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch
 
 #### Diagram
