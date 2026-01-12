@@ -4,8 +4,14 @@ This portfolio demonstrates hands-on cloud security skills aligned with SOC Anal
 
 ## Projects
 [AWS Web Application](#diagram)
-This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch
-
+This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch.
+Its use was to familize my self with common AWS services and allow my self to experiece building an application
+Thought process 
+- Needs way to create/host a webpage
+- Needs way to invoke a python functionality
+- Needs a way to run code
+- Needs a place to store/return output
+- Needs a way to handle permission
 #### Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
 
