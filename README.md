@@ -8,11 +8,11 @@ This was a simple Web Application integrating AWS services - **Amplify, Lambda, 
 Its use was to familize my self with common AWS services and allow my self to experiece building an application
 
 🧠**Thought process**
-1 - Needs way to create/host a webpage
-2 - Needs way to invoke a python functionality
-3 - Needs a way to run code
-4 - Needs a place to store/return output
-5 - Needs a way to handle permission
+1. Needs way to create/host a webpage  
+2. Needs way to invoke a python functionality  
+3. Needs a way to run code  
+4. Needs a place to store/return output  
+5. Needs a way to handle permission  
 
 
 #### Diagram
