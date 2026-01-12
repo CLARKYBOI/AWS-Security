@@ -16,6 +16,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 **5.** Needs a way to handle permission  
 
 💡 Solutions
+
 **1.** **Amplify** can be used to build and host websites. (For simplicy a text editor was used to create a index.html page)  
 
 
