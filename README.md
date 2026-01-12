@@ -28,7 +28,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 **4.** **DynamoDB** used a key-value ("NoSQL") database. (This wasn't needed because I could have returned the value and there was no need to store, however for learning purperse I added it in)  
 
 
-**5** **IAM** is needed to set permissions on the execution role for Lambda  
+**5.** **IAM** is needed to set permissions on the execution role for Lambda  
 
 
 #### Diagram
