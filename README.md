@@ -22,14 +22,15 @@ Its use was to familize my self with common AWS services and allow my self to ex
 **2.** **API Gateway** was used to build a REST API to invoke the Lambda function.  
 
 
-**3.** **Lambda** running python code serverlessly upon some trigger. (in this case was user input)  
+**3.** **Lambda** running python code serverlessly upon some trigger. (In this case it was user input)  
 
 
 **4.** **DynamoDB** used a key-value ("NoSQL") database. (This wasn't needed because I could have returned the value and there was no need to store, however for learning purperse I added it in)  
 
 
-**5.** **IAM** is needed to set permissions on the execution role for Lambda  
+**5.** **IAM** is needed to set permissions on the execution role for Lambda
 
+Note: Python code was AI generated used to perform function on webapplication
 
 #### Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
