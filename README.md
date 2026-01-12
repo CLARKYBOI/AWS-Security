@@ -39,7 +39,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 
 
 ## Quick Documentation / Note
-Please Disregard below
+## **Please Disregard below**
 
 CLI command to change username - **aws iam update-user --user-name NAME --new-user-name NEWNAME**
   - User will stay in group but permissions will not transfer and will have to be reassigned to the new name
