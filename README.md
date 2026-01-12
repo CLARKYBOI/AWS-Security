@@ -9,8 +9,8 @@ Its use was to familize my self with common AWS services and allow my self to ex
 
 🧠**Thought process**
 
-**1.** Needs way to create/host a webpage    
-**2.** Needs way to invoke a python functionality  
+**1.** Needs a way to create/host a webpage    
+**2.** Needs a way to invoke a python functionality  
 **3.** Needs a way to run code  
 **4.** Needs a place to store/return output  
 **5.** Needs a way to handle permission  
