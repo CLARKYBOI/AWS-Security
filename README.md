@@ -20,5 +20,5 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
 
 ## Projects
 ### AWS Web Application diagram
-This was a simple Web application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch
+This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
