@@ -18,6 +18,6 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
 ### S3 
  - Object storage storing data within buckets identified by a unique key and supported by metadata
 
-# Project
+## Projects
 ## Web Application
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
