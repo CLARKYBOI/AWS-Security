@@ -21,7 +21,4 @@ CLI command to change username - **aws iam update-user --user-name NAME --new-us
 # Project
 ## Web Application
 ## My Draw.io Diagram
-
-![Untitled Diagram](Untitled%20Diagram.png)
-
-[Edit source](Untitled%20Diagram.drawio)
+![Diagram](https://raw.githubusercontent.com/your-username/your-repo/main/Untitled%20Diagram.png)
