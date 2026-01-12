@@ -15,7 +15,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 **4.** Needs a place to store/return output  
 **5.** Needs a way to handle permission  
 
-
+💡 Solutions
 **1.** **Amplify** can be used to build and host websites. (For simplicy a text editor was used to create a index.html page)  
 
 
@@ -30,7 +30,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 
 **5.** **IAM** is needed to set permissions on the execution role for Lambda
 
-Note: Python code was AI generated used to perform function on webapplication
+#### **Note**: Python code was AI generated used to perform function on webapplication
 
 #### Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
