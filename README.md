@@ -16,11 +16,11 @@ Its use was to familize my self with common AWS services and allow my self to ex
 **5.** Needs a way to handle permission  
 
 
-**1.** Amplify can be used to build and host websites. (For simplicy a text editor was used to create a index.html page)  
-**2.** API Gateway was used to build a REST API to invoke the Lambda function.  
-**3.** Lambda running python code serverlessly upon some trigger. (in this case was user input)  
-**4.** DynamoDB used a key-value ("NoSQL") database. (This wasn't needed because I could have returned the value and there was no need to store, however for learning purperse I added it in)  
-**5** IAM is needed to set permissions on the execution role for Lambda  
+**1.** **Amplify** can be used to build and host websites. (For simplicy a text editor was used to create a index.html page)  
+**2.** **API Gateway** was used to build a REST API to invoke the Lambda function.  
+**3.** **Lambda** running python code serverlessly upon some trigger. (in this case was user input)  
+**4.** **DynamoDB** used a key-value ("NoSQL") database. (This wasn't needed because I could have returned the value and there was no need to store, however for learning purperse I added it in)  
+**5** **IAM** is needed to set permissions on the execution role for Lambda  
 
 
 #### Diagram
