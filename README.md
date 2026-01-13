@@ -6,7 +6,7 @@ This setup started with securely provisioning and hardening my AWS account
 - Enabled MFA on the AWS root account, Then created a non-root IAM administrator user for my day-to-day use
 - Assigned IAM users to permission-scoped IAM groups representing employee job functions, enforcing the Principle of Least Privilege (PoLP)
 
-## AWS Secure account creation
+
 ## Projects
 [AWS Web Application](#diagram)
 This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch.
