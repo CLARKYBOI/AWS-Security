@@ -1,13 +1,13 @@
 # 🛡️ AWS-Security
 This portfolio will be documentation of my AWS learning and using it as a textbook!
-### Account creation
+### 👤 Account creation
 
 I started with securely provisioning and hardening my AWS account
 - Enabled MFA on the AWS root account, Then created a non-root IAM administrator user for my day-to-day use
 - Assigned IAM users to permission-scoped IAM groups representing employee job functions, enforcing the Principle of Least Privilege (PoLP)
 
 
-## Projects
+## 🗂️Projects
 [AWS Web Application](#diagram)
 This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch.
 Its use was to familize my self with common AWS services and allow my self to experiece building an application.
