@@ -23,6 +23,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 💡 Solutions
 -----
 **1.** **Amplify** can be used to build and host websites. 
+
 Note: (For simplicity, a text editor was used to create an index.html page)  
 
 
@@ -30,10 +31,12 @@ Note: (For simplicity, a text editor was used to create an index.html page)
 
 
 **3.** **Lambda** running Python code serverlessly upon some trigger. 
+
 Note: (In this case, it was user input)  
 
 
 **4.** **DynamoDB** used a key-value ("NoSQL") database. 
+
 Note: (This wasn't needed because I could have returned the value, and there was no need to store; however, for learning purposes I added it in)  
 
 
