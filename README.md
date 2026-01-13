@@ -2,7 +2,7 @@
 This portfolio will be documentation of my AWS learning and using it as a textbook!
 ### Account creation
 
-This setup started with securely provisioning and hardening my AWS account
+I started with securely provisioning and hardening my AWS account
 - Enabled MFA on the AWS root account, Then created a non-root IAM administrator user for my day-to-day use
 - Assigned IAM users to permission-scoped IAM groups representing employee job functions, enforcing the Principle of Least Privilege (PoLP)
 
