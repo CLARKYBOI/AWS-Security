@@ -41,9 +41,8 @@ Its use was to familize my self with common AWS services and allow my self to ex
 ## Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
 ----
-[React App(In progress)](#diagram)
+[React App(In progress)](#diagram)This project is a React-based web application deployed on AWS using AWS Amplify. The frontend was clone from an existing repositiory and customized locally, including the creation fo account and sign-in pages. Backend resources are developed and tested using AWS Amplify Sandbox, allowing backend changes to be applied to a sandbox environment during development
 
-This project is a React-based web application deployed on AWS using AWS Amplify. The frontend was clone from an existing repositiory and customized locally, including the creation fo account and sign-in pages. Backend resources are developed and tested using AWS Amplify Sandbox, allowing backend changes to be applied to a sandbox environment during development
 The purpose of this project was to learn frontend deployment workflows using AWS Amplify Hosting and to experiment with backend development using Amplify Sandbox. Frontend updates were deployed via repository pushes, while backend changes are applied manually within the sandbox environment
 ## Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/1719739d43fa4f2db9ee385952899d5824b44bab/React%20%20app.drawio.png)
