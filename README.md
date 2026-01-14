@@ -41,7 +41,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 
 ## 🗺️ Architecture Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/09aaeecd4bd1b2891cc977be899462ce9b9f1c42/Untitled%20Diagram.drawio.png)
----
+----
 ## ⚛️ React App
 
 This project is a React-based web application deployed on AWS using AWS Amplify. The frontend was clone from an existing repositiory and customized locally, including the creation fo account and sign-in pages. Backend resources are developed and tested using AWS Amplify Sandbox, allowing backend changes to be applied to a sandbox environment during development
