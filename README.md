@@ -13,7 +13,7 @@ I started with securely provisioning and hardening my AWS account
 This was a simple Web Application integrating AWS services - **Amplify, Lambda, IAM, API Gateway, and DynamoDB** - to build a functional web application from scratch.
 Its use was to familize my self with common AWS services and allow my self to experiece building an application.
 
-###🧠**Thought process**
+### 🧠**Thought process**
 -----
 **1.** Needs a way to create/host a webpage    
 **2.** Needs a way to invoke a Python functionality  
@@ -21,7 +21,7 @@ Its use was to familize my self with common AWS services and allow my self to ex
 **4.** Needs a place to store/return output  
 **5.** Needs a way to handle permission  
 
-###💡 Solutions
+### 💡 Solutions
 -----
 **1.** **Amplify** can be used to build and host websites. (For simplicity, a text editor was used to create an index.html page)  
 
