@@ -52,6 +52,9 @@ This project is a React-based web application deployed on AWS using AWS Amplify.
 - Understand the separation between frontend deployments and backend infrastructure changes
 ## Diagram
 ![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/1719739d43fa4f2db9ee385952899d5824b44bab/React%20%20app.drawio.png)
+## Load Balancer Diagram
+![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/056d66938456290caea978ed59ed07db5f67d609/Loadbalancer.drawio.png)
+
 ## Quick Documentation / Note
 ## **Please Disregard below**
 
