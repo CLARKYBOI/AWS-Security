@@ -57,7 +57,7 @@ This project is a React-based web application deployed on AWS using AWS Amplify.
 
 This mini-project was to implement a load balancer between EC2 instances, then using CloudWatch and CloudTrail monitoring system health and performance metrics.
 ## 🗺️ Load Balancer Diagram
-![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/4ad0f90c9922a8ec78a8d3811ded6a7be43b008e/Loadbalance.drawio.png)
+![image alt](https://github.com/CLARKYBOI/AWS-Security/blob/dc859b6dc8b1cb02a48652c2ba5052560220b1e3/loadbalance1.drawio.png)
 
 ## Quick Documentation / Note
 ## **Please Disregard below**
